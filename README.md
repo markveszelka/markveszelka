@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ## My name is **Mark Veszelka** 
-# 🌱 I’m currently learning at **Codecool**
+### 🌱 I’m currently learning at **Codecool**
 
 
 <!--
