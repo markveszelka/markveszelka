@@ -1,8 +1,13 @@
 ### Hi there! 👋
 ## My name is **Mark Veszelka** 
 ### 🌱 I’m currently learning at **Codecool**
+### 🔭 I’m currently working on my github profile
 
-
+| Rank | Favourite Ice Cream |
+|-----:|---------------|
+|     1|         Vanilla        |
+|     2|         Chocolate      |
+|     3|         Strawberry     |
 <!--
 **markveszelka/markveszelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
