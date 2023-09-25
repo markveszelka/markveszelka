@@ -1,7 +1,6 @@
 ### Hi there! 👋
 ## My name is **Mark Veszelka** 
 ### 🌱 I’m currently learning at **Codecool**
-### 🔭 I’m currently working on my github profile
 
 | Rank | Favourite Ice Cream |
 |-----:|---------------|
