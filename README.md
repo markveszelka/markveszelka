@@ -2,11 +2,11 @@
 ## My name is **Mark Veszelka** 
 ### 🌱 I’m currently learning at **Codecool**
 
-| Rank | Favourite Ice Cream |
-|-----:|---------------|
-|     1|         Vanilla        |
-|     2|         Chocolate      |
-|     3|         Strawberry     |
+| No.   | Stacks I'm learning now |
+|-----:|--------------------------|
+|     1|         Java             |
+|     2|         Spring Framewok  |
+|     3|         React.js         |
 <!--
 **markveszelka/markveszelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
