@@ -1,8 +1,7 @@
 ### Hi there! 👋
 ## My name is **Mark Veszelka** 
-### 🌱 I’m currently learning at **Codecool**
 
-| No.   | Stacks I'm learning now |
+| No.  |    Few stacks I learnt   |
 |-----:|--------------------------|
 |     1|         Java             |
 |     2|         Spring Framewok  |
